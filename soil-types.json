@@ -1,0 +1,9 @@
+[
+  "sandy", "clay", "silt", "loam", "peat", "chalky", "saline", "laterite", "terra rossa", "chernozem",
+  "vertisol", "andisol", "oxisol", "ultisol", "mollisol", "alfisol", "inceptisol", "entisol", "histosol", "spodosol",
+  "gelisol", "aridisol", "sandy loam", "silty clay", "clay loam", "silt loam", "sandy clay", "silty clay loam",
+  "sandy clay loam", "peaty loam", "calcareous", "alluvial", "colluvial", "glacial till", "loess", "marine clay",
+  "terra preta", "sodic", "serpentine", "ferralitic", "planosol", "solonetz", "gleysol", "fluvisol", "cambisol",
+  "podzol", "leptosol", "regosol", "acrisol", "luvisol", "nitisol", "ferralsol", "plinthosol", "gypsisol", "calcisol",
+  "cryosol", "anthrosol", "technosol"
+]
